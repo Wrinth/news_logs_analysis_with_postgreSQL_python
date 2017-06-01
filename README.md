@@ -1,0 +1,2 @@
+# news_logs_analysis_with_postgreSQL_python
+A data analysis python application
