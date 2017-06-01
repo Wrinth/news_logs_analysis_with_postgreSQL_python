@@ -26,7 +26,7 @@ Once you have the data loaded into your database, connect to your database using
 Get a sense for what sort of information is in each column of these tables.
 
 ### Run the SQL statement:
-Once the database is set up, run the ```newsdata.py``` on your Vagrant virtual machine. There are six functions inside the application.
+Once the database is set up, run the ```newsdata.py``` on your Vagrant virtual machine by typing ```$ python newsdata.py``` in your terminal/command line. There are six functions inside the application.
 * ```get_most_popular_three_articles()```, return the most popular three articles of all time
 * ```get_most_popular_article_authors()```, return the most popular article authors of all time
 * ```get_days_with_requests_errors()```, return the days with more than 1% of requests lead to errors
